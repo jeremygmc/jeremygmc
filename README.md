@@ -44,13 +44,13 @@
 ## Github Stats  
 
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=dsja612&show_icons=true&theme=apprentice" align="center" />
+<img src="https://github-readme-stats.vercel.app/api?username=jeremygmc&show_icons=true&theme=apprentice" align="center" />
 </div>  
 
 <br />
   
 <div align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com?user=dsja612&theme=dark" align="center" />
+<img src="https://github-readme-streak-stats.herokuapp.com?user=jeremygmc&theme=dark" align="center" />
 </div>  
 
 <br />
