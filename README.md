@@ -16,8 +16,6 @@
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="75" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="75" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="75" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg" alt="Java" height="75" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/powerbi.png" alt="Power Bi" height="75" />  
 </div>
 
 </td><td valign="top" width="33%">
@@ -54,7 +52,9 @@
   
 <!--START_SECTION:waka-->
 
-(https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+  
+<!--END_SECTION:waka-->
+  
 <!--
 **jeremygmc/jeremygmc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
