@@ -53,7 +53,8 @@
 <br />
   
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
+
+(https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **jeremygmc/jeremygmc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
